@@ -1,6 +1,9 @@
 # Brute_insta
 
 ```bash
+![Profile Picture](Screenshot_2025-07-16-17-57-03-222_com.termux.jpg)
+
+# INSTALL BAHAN TERMUK
 
 apt update -y && apt upgrade -y
 apt install git -y
@@ -14,3 +17,8 @@ pip install rich
 https://github.com/VinXD-SLEBEW/Brute_insta
 cd Brute_insta
 python ig_robz.py
+
+```bash
+
+JANGAN SALAH GUNAKAN
+ADMIN TIDAK BERGANTUNG JAWAB :V
