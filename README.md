@@ -1,6 +1,6 @@
 # Brute_insta
 
-`bash
+```bash
 
 apt update -y && apt upgrade -y
 apt install git -y
