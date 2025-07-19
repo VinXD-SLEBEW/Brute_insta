@@ -15,6 +15,6 @@ pip install bs4
 pip install stdiomask
 pip install pytz
 pip install rich
-https://github.com/VinXD-SLEBEW/Brute_insta
+git clone https://github.com/VinXD-SLEBEW/Brute_insta
 cd Brute_insta
 python ig_robz.py
